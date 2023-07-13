@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Parami Ashinsana Hewawasam</h1>
+<h1 align="center">Hi 👋, I'm Parami Ashinsana</h1>
 <h3 align="center">Software Engineer Student</h3>
 
 <img src="https://img.freepik.com/free-vector/programmer-working-isometric-style_52683-16805.jpg?t=st=1687595738~exp=1687596338~hmac=44d6e2d964dfee07b1e60b6b67cf082c00d6fc1304b956dc98b02dd3be5b53b0">

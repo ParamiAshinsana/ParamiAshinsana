@@ -29,7 +29,7 @@
 [![](https://visitcount.itsvg.in/api?id=ParamiAshinsana&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ParamiAshinsana&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ParamiAshinsana&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ParamiAshinsana&limit=5&theme=algolia&combine_all_yearly_contributions=true)

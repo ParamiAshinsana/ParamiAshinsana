@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hello 👋, I'm Parami Ashinsana</h1>
 <h2 align="center">Software Engineer Student</h2>
-<p>i'm a passionate software engineering student committed to continuous learning and innovation. Excited about diving deep into cutting-edge technologies, tackling complex problems, and collaborating on impactful projects. Eager to contribute to the ever-evolving landscape of software development and make a meaningful impact in the tech community. Let's code, learn, and build together!✨💡🚀</p>
+<p>i'm a passionate software engineering student committed to continuous learning and innovation. Excited about diving deep into cutting-edge technologies, tackling complex problems, and collaborating on impactful projects. Eager to contribute to the ever-evolving landscape of software development and make a meaningful impact in the tech community. Let's code, learn, and build together!💡🚀</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ParamiAshinsana&label=Profile%20views&color=0e75b6&style=flat" alt="ParamiAshinsana" /> </p>
 
 ## 🏆 GitHub Trophies
